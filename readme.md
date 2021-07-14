@@ -6,7 +6,7 @@
 
 3. Open a terminal and navigate to the metadata folder.
 
-4. From (this workbook)[https://docs.google.com/spreadsheets/d/1IhJo47bqmKCL4EclgMLTOfBJWyxP-TOwtkHs8Xz-pX4/edit?ts=6001d879#gid=0], create a CSV file from the sheet containing the metadata. Update the numbers in the ‘date/sequence designation’ column with leading zeros to ensure that they will list in the proper sequence. Save the file as ‘maps.csv’ in the metadata folder.
+4. From [this workbook](https://docs.google.com/spreadsheets/d/1IhJo47bqmKCL4EclgMLTOfBJWyxP-TOwtkHs8Xz-pX4/edit?ts=6001d879#gid=0), create a CSV file from the sheet containing the metadata. Update the numbers in the ‘date/sequence designation’ column with leading zeros to ensure that they will list in the proper sequence. Save the file as ‘maps.csv’ in the metadata folder.
 
 5. Run the Python script:
 
