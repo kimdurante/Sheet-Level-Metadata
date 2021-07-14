@@ -22,4 +22,8 @@
     
 9. In Argo, open the map objects for versioning. 
 
-10. Locate the APO for the map set. Select ‘MODS Bulk Loads” and choose ‘Submit new file.’ Select the file (_metadata.xml_) and choose 'MODS XML input; load into objects.'
+10. Locate the APO for the map set. Select ‘MODS Bulk Loads” and choose ‘Submit new file.’ 
+
+    Select the file (_metadata.xml_) and choose 'MODS XML input; load into objects.'
+    
+11. Close object versions.
